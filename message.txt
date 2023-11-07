@@ -1,57 +1,82 @@
 <div align=center>
 
-> [ATLAS Support ](https://support.va-center.com/atlas) | [ATLAS Website ](https://atlas.va-center.com/) 
+> | [VABot](https://va-center.com/vabot) |
 
-![new|820x273](upload://xnryg2uAyNZDl8kGvywCcKRunz.png)
+https://global.discourse-cdn.com/infiniteflight/optimized/4X/6/8/9/689c7e7c4955fbad3865c13e5187171a10e7d20f_2_820x273.png
+*A VAcenter Product*
 
-<div align=center>
+## VABot
+Your Aviation Bot: Sim or Real, We've Got You Covered!
+VABot is one of the only Infinite Flight Bot officially verrified by **Discord**.
 
-## ATLAS V2.1
-
-### *New Features*
-
-We have been hard at work this past week at VACenter and are excited to add a new set of features to your Atlas Crew Center.
-
-<div align=left>
-<hr>
-
-> - Live Map (Pro Plan)
-
-The new Live Map now allows you to add as many organisations to it as you wish. See the route's and aircraft's info. ETA, Altitude, Status etc...
-
-**You can switch between our map and the IFVARB map.**
-
-![Screenshot 2023-11-04 at 21.22.55|820x333](upload://vf1e7R0PtqJyOMIou1T7Rc32NAy.jpeg)
+**Trusted by over 80 Servers**
 
 <hr>
 
-> - Multiple Routes of the Week (Free).
+https://media.discordapp.net/attachments/958449689697583195/1170720224862019584/phonto.png?ex=655a112c&is=65479c2c&hm=c56a4813145323ea9fbe4d3ef4f045bbc3d8ba9a8bd26d35d32471df4f0ecd78&=&width=1920&height=640
 
-Atlas now allows you to add as many featured routes on the dashboard as you want. The pilots can directly file a flight of that route by just clicking on the route.
-
-![Screenshot 2023-11-04 at 21.01.57|820x132](upload://sbonKLDOyzJMH3I5Q7CnocSVG73.png)
+VABot is an Aviation related discord bot which serves many purposes, from getting live flights for a VA to getting the metar of an airport in real life and anything in between, VABot has got you covered
 
 <hr>
 
-> - Enforced Caps
+https://media.discordapp.net/attachments/958449689697583195/1170720385562579044/phonto.png?ex=655a1152&is=65479c52&hm=880fca1c98f74a774745d2465e5fa7b0259cee54561e1e627a06ee95d6cf6872&=&width=1920&height=640
 
-Atlas now automatically converts your ICAOs to uppercase so its easier for you to add them.
+> Live Map
+>
+> ![Frame 1|820x546](upload://MnBcujHgCV29SrdDDuwrAYXvCL.png)
+>
+> View Live Flights of your Virtual Airline
+<hr>
+
+> ATC
+>
+> ![Frame 2|820x546](upload://9SAfOe30hX2XXhpXEIRMRGjfbMj.png)
+>
+> View all the active frequencies on the expert server
+<hr>
+
+> Metar
+> 
+> ![Frame 3|820x546](upload://dnVN2gqX1kmowyx41S97CeKFu3i.png)
+>
+> View the Metar of an airport
 
 <hr>
 
-> - Challenge Improvements
+> Static Map
+>
+> ![Frame 4|820x546](upload://emwXraozg75Csj6OnSdHoFBSKy0.png)
+>
+> View both the Live ATC and the Live Flights on a Static Map.
 
-We have always improved your experience checking your VA's challenges.
+> Events
+> Get the list of all IFC and Atlas Events
 
-<hr>
 
-<div align=center>
+[details="All Features"]
+- Live Map
+- Active ATC
+- Metar
+- Static Map
+- User Stats : Get the Stats of an IFC User
+- Admin Dashboard :
+![Screenshot 2023-11-05 at 15.19.09|820x141](upload://r4QWNCmUzQ2guhfz5gGgq7z3WOO.png)
 
-### Full feature list
+- Aircraft : Get the details of an aircraft
+- Airport-Stats : Get the details of an airport
+- ATC Schedule
+- Atis
+- Events : Get the list of all IFC and Atlas Events
+- Find-Flight : Find a flight on the expert server
+[/details]
 
-![Screenshot_2023-11-04_at_20.43.05|820x344](upload://bAcs5zttjsOeVXWIm4012zUBaed.png)
 
-<hr>
+[details="ATLAS Integration"]
+- Ranks : Shows the ranks of your Atlas CC
+- ROTW : Get the ROTW of your Atlas CC
+- Stats : Get the stats of a member in your Atlas CC
+- Top : Get the top members of your VA
+- VAStats : Get the stats of your VA
+[/details]
 
-### Check out more here
-> [ATLAS Support ](https://support.va-center.com/atlas) | [ATLAS Website ](https://atlas.va-center.com/)
+**Everything is slash command**
